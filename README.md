@@ -1,3 +1,4 @@
+# Panther Insights
 This study aims to develop and evaluate a
 comprehensive solution for the process of selecting professors and
 courses crucial to student academic success.
