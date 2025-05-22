@@ -1,3 +1,28 @@
+This study aims to develop and evaluate a
+comprehensive solution for the process of selecting professors and
+courses crucial to student academic success.
+Existing platforms often provide limited or
+unreliable information. Panther Insights intends to
+bridge the information gap students face when
+registering for classes. Our research involved developing both a
+React Native mobile app and a Next.js web
+application, utilizing Firebase for data storage
+and Typescript for robust development.
+The platform incorporates features such as
+professor comparisons specific to courses,
+detailed student experience journeys, and
+Reddit-like forum discussions. We
+implemented FERPA-compliant data
+handling practices to ensure student privacy
+and security.
+To evaluate the effectiveness of Panther Insights, we verified our
+end-user satisfaction hypothesis with a sample of 100 Georgia State
+University students across various disciplines who have used the
+Rate my Professor(RMP) app.
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
